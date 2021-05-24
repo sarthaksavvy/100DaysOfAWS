@@ -12,8 +12,8 @@
 - Course - [Ultimate AWS Certified Developer Associate 2021 - NEW!](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
 
 
-## Day 1 (24 May, 2021)
-Not yet started
+## Day 1 (24 May, 2021) Getting Started with AWS
+[Click Here to Read More](/Day-1-Getting-Started-with-AWS.md)
 
 ## Day 2 (25 May, 2021)
 Not yet started
