@@ -15,8 +15,8 @@
 ## Day 1 (24 May, 2021) Getting Started with AWS
 [Click Here to Read More](/Day-1-Getting-Started-with-AWS.md)
 
-## Day 2 (25 May, 2021)
-Not yet started
+## Day 2 (25 May, 2021) Permission and Policies
+[Click Here to Read More](/Day-2-IAM-permission-and-policies.md)
 
 ## Day 3 (26 May, 2021)
 Not yet started
