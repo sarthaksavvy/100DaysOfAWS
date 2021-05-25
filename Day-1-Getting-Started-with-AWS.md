@@ -1,10 +1,10 @@
 
 # Day 1 - Getting Started with AWS
 
-**Congrat, since you are here this means you want to start AWS**
+**Congrats, since you are here this means you want to start AWS**
 
 ## What I have learned
-I have started with the course I have given and completed the AWS Introduction
+I have started with the course I have given and completed the AWS Introduction.
 
 ## Topic Covered
   - What is AWS
