@@ -1,4 +1,4 @@
-Day 3 - IAM Role, MFA and User Audit Security
+# Day 3 - IAM Role, MFA and User Audit Security
 
 **Congrat, since you are here this means you have completed Day 2 and working on Day 3**
 
