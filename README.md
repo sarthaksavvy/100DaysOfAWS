@@ -1,4 +1,5 @@
 # 100 Days Of AWS Challenge
+**[Join Discord Server](https://discord.gg/neuKDrJ)**
 
 <a href="https://www.youtube.com/watch?v=77XaHwNxH68">
 <img src="https://i3.ytimg.com/vi/77XaHwNxH68/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
