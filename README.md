@@ -22,8 +22,8 @@
 ## Day 3 (26 May, 2021) IAM Roles, MFA and Security User Audit
 [Click Here to Read More](/Day-3-100DaysOfAWS.md)
 
-## Day 4 (27 May, 2021)
-Not yet started
+## Day 4 (27 May, 2021) Billing, Budget and EC2
+[Click Here to Read More](/Day-4-100DaysOfAWS.md)
 
 ## Day 5 (28 May, 2021)
 Not yet started
