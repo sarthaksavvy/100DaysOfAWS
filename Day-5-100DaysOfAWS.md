@@ -1,4 +1,4 @@
-# Day 5 - Billing, Budget and EC2
+# Day 5 - Security Groups, AWS CLI and EC2 Connect
 
 **Congrat, since you are here this means you have completed Day 4 and working on Day 5 **
 
