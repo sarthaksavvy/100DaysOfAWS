@@ -25,11 +25,53 @@
 ## Day 4 (27 May, 2021) Billing, Budget and EC2
 [Click Here to Read More](/Day-4-100DaysOfAWS.md)
 
-## Day 5 (28 May, 2021)
-Not yet started
+## Day 5 (28 May, 2021) EC2 Security Group, AWS CLI, EC2 Connect
+[Click Here to Read More](/Day-5-100DaysOfAWS.md)
 
 ## Day 6 (29 May, 2021)
 Not yet started
 
 ## Day 7 (30 May, 2021)
+Not yet started
+
+## Day 8 (31 May, 2021)
+Not yet started
+
+## Day 9 (01 June, 2021)
+Not yet started
+
+## Day 10 (02 June, 2021)
+Not yet started
+
+## Day 11 (03 June, 2021)
+Not yet started
+
+## Day 12 (04 June, 2021)
+Not yet started
+
+## Day 13 (05 June, 2021)
+Not yet started
+
+## Day 14 (06 June, 2021)
+Not yet started
+
+## Day 15 (07 June, 2021)
+Not yet started
+
+## Day 16 (08 June, 2021)
+Not yet started
+
+## Day 17 (09 June, 2021)
+Not yet started
+
+## Day 18 (10 June, 2021)
+Not yet started
+
+## Day 19 (11 June, 2021)
+Not yet started
+
+## Day 20 (12 June, 2021)
+Not yet started
+
+## Day 21 (13 June, 2021)
 Not yet started
