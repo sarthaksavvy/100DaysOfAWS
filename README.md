@@ -28,8 +28,8 @@
 ## Day 5 (28 May, 2021) EC2 Security Group, AWS CLI, EC2 Connect
 [Click Here to Read More](/Day-5-100DaysOfAWS.md)
 
-## Day 6 (29 May, 2021)
-Not yet started
+## Day 6 (29 May, 2021) Storage - EBS ( Elastic Block Store)
+[Click Here to Read More](/Day-6-100DaysOfAWS.md)
 
 ## Day 7 (30 May, 2021)
 Not yet started
