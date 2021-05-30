@@ -2,6 +2,11 @@
 
 **Congrat, since you are here this means you have completed Day 2 and working on Day 3**
 
+## Hands on video
+<a href="https://youtu.be/I2kesQLlsVs">
+<img src="https://i3.ytimg.com/vi/I2kesQLlsVs/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+</a>
+
 ## Topic Covered
   - IAM Roles
   - Why we need Roles
