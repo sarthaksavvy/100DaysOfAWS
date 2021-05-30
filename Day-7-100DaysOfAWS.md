@@ -2,11 +2,15 @@
 
 **Congrat, since you are here this means you have completed Day 6 and working on Day 7 **
 
+## Hands on video
+<a href="https://youtu.be/vRkf3_TfR4w">
+<img src="https://i3.ytimg.com/vi/vRkf3_TfR4w/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+</a>
+
 ## Topic Covered
   - EC2 Instance Store
   - EFS ( Elastic File System)
   - Types of EFS
-
 
 ## My Notes
 
