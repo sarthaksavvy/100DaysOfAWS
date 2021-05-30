@@ -3,6 +3,12 @@
 
 **Congrat, since you are here this means you have completed Day 1 and working on Day 2**
 
+
+## Hands on video
+<a href="https://youtu.be/eY3xiz6OR40">
+<img src="https://i3.ytimg.com/vi/eY3xiz6OR40/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+</a>
+
 ## Topic Covered
   - What is IAM
   - IAM groups
