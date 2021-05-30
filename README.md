@@ -31,8 +31,8 @@
 ## Day 6 (29 May, 2021) Storage - EBS ( Elastic Block Store)
 [Click Here to Read More](/Day-6-100DaysOfAWS.md)
 
-## Day 7 (30 May, 2021)
-Not yet started
+## Day 7 (30 May, 2021) EFS and Instance Store
+[Click Here to Read More](/Day-7-100DaysOfAWS.md)
 
 ## Day 8 (31 May, 2021)
 Not yet started
