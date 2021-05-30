@@ -2,6 +2,11 @@
 
 **Congrat, since you are here this means you have completed Day 3 and working on Day 4**
 
+## Hands on video
+<a href="https://youtu.be/cZvdADYC9Rs">
+<img src="https://i3.ytimg.com/vi/cZvdADYC9Rs/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+</a>
+
 ## Topic Covered
   - How to check billing
   - AWS Budget Setup
