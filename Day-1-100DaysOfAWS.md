@@ -6,6 +6,11 @@
 ## What I have learned
 I have started with the course I have given and completed the AWS Introduction.
 
+## Hands on video
+<a href="https://youtu.be/MO6Ly1BQKGU">
+<img src="https://i3.ytimg.com/vi/MO6Ly1BQKGU/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+</a>
+
 ## Topic Covered
   - What is AWS
   - AWS History
