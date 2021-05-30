@@ -2,6 +2,11 @@
 
 **Congrat, since you are here this means you have completed Day 5 and working on Day 6 **
 
+## Hands on video
+<a href="https://youtu.be/HpCxChgVjgk">
+<img src="https://i3.ytimg.com/vi/HpCxChgVjgk/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+</a>
+
 ## Topic Covered
   - Types of Storage in AWS
   - EBS and its features
