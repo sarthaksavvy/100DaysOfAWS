@@ -34,8 +34,8 @@
 ## Day 7 (30 May, 2021) EFS and Instance Store
 [Click Here to Read More](/Day-7-100DaysOfAWS.md)
 
-## Day 8 (31 May, 2021)
-Not yet started
+## Day 8 (31 May, 2021) Load Balancing - ELB ( Classic and Application)
+[Click Here to Read More](/Day-8-100DaysOfAWS.md)
 
 ## Day 9 (01 June, 2021)
 Not yet started
