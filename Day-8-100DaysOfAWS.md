@@ -3,8 +3,8 @@
 **Congrat, since you are here this means you have completed Day 7 and working on Day 8**
 
 ## Hands on video
-<a href="https://youtu.be/vRkf3_TfR4w">
-<img src="https://i3.ytimg.com/vi/vRkf3_TfR4w/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+<a href="https://youtu.be/lHzHjbxkLOA">
+<img src="https://i3.ytimg.com/vi/lHzHjbxkLOA/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
 </a>
 
 ## Topic Covered
