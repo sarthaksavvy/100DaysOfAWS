@@ -1,6 +1,6 @@
 # Day 7 - Storage - EFS and Instance Store
 
-**Congrat, since you are here this means you have completed Day 6 and working on Day 7 **
+**Congrat, since you are here this means you have completed Day 6 and working on Day 7**
 
 ## Hands on video
 <a href="https://youtu.be/vRkf3_TfR4w">
