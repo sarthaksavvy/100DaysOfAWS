@@ -37,8 +37,8 @@
 ## Day 8 (31 May, 2021) Load Balancing - ELB ( Classic and Application)
 [Click Here to Read More](/Day-8-100DaysOfAWS.md)
 
-## Day 9 (01 June, 2021)
-Not yet started
+## Day 9 (01 June, 2021) NLB, Sticky Session and Cross Zone Load Balancing
+[Click Here to Read More](/Day-9-100DaysOfAWS.md)
 
 ## Day 10 (02 June, 2021)
 Not yet started
