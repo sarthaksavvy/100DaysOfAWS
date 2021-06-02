@@ -14,34 +14,34 @@
 
 
 ## Day 1 (24 May, 2021) Getting Started with AWS
-[Click Here to Read More](/Day-1-100DaysOfAWS.md)
+[Click Here to Read More](/Day-001-100DaysOfAWS.md)
 
 ## Day 2 (25 May, 2021) Permission and Policies
-[Click Here to Read More](/Day-2-100DaysOfAWS.md)
+[Click Here to Read More](/Day-002-100DaysOfAWS.md)
 
 ## Day 3 (26 May, 2021) IAM Roles, MFA and Security User Audit
-[Click Here to Read More](/Day-3-100DaysOfAWS.md)
+[Click Here to Read More](/Day-003-100DaysOfAWS.md)
 
 ## Day 4 (27 May, 2021) Billing, Budget and EC2
-[Click Here to Read More](/Day-4-100DaysOfAWS.md)
+[Click Here to Read More](/Day-004-100DaysOfAWS.md)
 
 ## Day 5 (28 May, 2021) EC2 Security Group, AWS CLI, EC2 Connect
-[Click Here to Read More](/Day-5-100DaysOfAWS.md)
+[Click Here to Read More](/Day-005-100DaysOfAWS.md)
 
 ## Day 6 (29 May, 2021) Storage - EBS ( Elastic Block Store)
-[Click Here to Read More](/Day-6-100DaysOfAWS.md)
+[Click Here to Read More](/Day-006-100DaysOfAWS.md)
 
 ## Day 7 (30 May, 2021) EFS and Instance Store
-[Click Here to Read More](/Day-7-100DaysOfAWS.md)
+[Click Here to Read More](/Day-007-100DaysOfAWS.md)
 
 ## Day 8 (31 May, 2021) Load Balancing - ELB ( Classic and Application)
-[Click Here to Read More](/Day-8-100DaysOfAWS.md)
+[Click Here to Read More](/Day-008-100DaysOfAWS.md)
 
 ## Day 9 (01 June, 2021) NLB, Sticky Session and Cross Zone Load Balancing
-[Click Here to Read More](/Day-9-100DaysOfAWS.md)
+[Click Here to Read More](/Day-009-100DaysOfAWS.md)
 
-## Day 10 (02 June, 2021)
-Not yet started
+## Day 10 (02 June, 2021) Auto Scaling and Scaling Policies
+[Click Here to Read More](/Day-010-100DaysOfAWS.md)
 
 ## Day 11 (03 June, 2021)
 Not yet started
