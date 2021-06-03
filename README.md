@@ -43,8 +43,8 @@
 ## Day 10 (02 June, 2021) Auto Scaling and Scaling Policies
 [Click Here to Read More](/Day-010-100DaysOfAWS.md)
 
-## Day 11 (03 June, 2021)
-Not yet started
+## Day 11 (03 June, 2021) Relational Database Serivces (RDS)
+[Click Here to Read More](/Day-011-100DaysOfAWS.md)
 
 ## Day 12 (04 June, 2021)
 Not yet started
