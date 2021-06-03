@@ -18,10 +18,10 @@
 
 ## My Notes
   ### What is IAM and Groups
-  ![JPEG image-B0C67F74E27B-2](https://user-images.githubusercontent.com/41295276/119443487-51584880-bd47-11eb-9e8c-d8eaa9958a9c.jpeg)
+  ![JPEG image-B0C67F74E27B-2](./images/699751c73e87541574438fbe301a2d88d5b5d553.jpeg)
 
   ### IAM Permissions
-  ![JPEG image-B0C67F74E27B-3](https://user-images.githubusercontent.com/41295276/119443473-4d2c2b00-bd47-11eb-9ad7-44547a311e83.jpeg)
+  ![JPEG image-B0C67F74E27B-3](./images/9427d62e0356d36c170fd32f6f05ebdc521c783b.jpeg)
 
   ### IAM Policies
-  ![JPEG image-B0C67F74E27B-1](https://user-images.githubusercontent.com/41295276/119443492-52897580-bd47-11eb-9457-67772dc317fe.jpeg)
+  ![JPEG image-B0C67F74E27B-1](./images/99d5df79b00a7b8527a3c2fa684fc90a28bb2eb4.jpeg)

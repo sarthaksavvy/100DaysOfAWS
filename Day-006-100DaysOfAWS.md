@@ -16,11 +16,11 @@
 ## My Notes
 
   ### AWS Storage and how it connect
-  ![JPEG image-67529F9085D1-1](https://user-images.githubusercontent.com/41295276/120061795-78cb5000-c07c-11eb-862f-17b252b0c48e.jpeg)
+  ![JPEG image-67529F9085D1-1](./images/8993a8e8d0379eb1c4ce04ef98e3cbf9110a2498.jpeg)
   
   ### EBS and its features
-  ![JPEG image-67529F9085D1-2](https://user-images.githubusercontent.com/41295276/120061791-75d05f80-c07c-11eb-840f-25413cec5ac5.jpeg)
+  ![JPEG image-67529F9085D1-2](./images/b14608a26ddca9c008edfd179754072f509a3a31.jpeg)
 
   ### EBS volume types
-  ![JPEG image-67529F9085D1-3](https://user-images.githubusercontent.com/41295276/120061788-6fda7e80-c07c-11eb-80ed-dddd04a0e480.jpeg)
+  ![JPEG image-67529F9085D1-3](./images/cc57bf95be1a287b1396f7ac8287217ac228c7ad.jpeg)
 

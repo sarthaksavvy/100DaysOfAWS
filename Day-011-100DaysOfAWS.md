@@ -19,22 +19,22 @@
 ## My Notes
 
   ### RDS Features
-  ![1](https://user-images.githubusercontent.com/41295276/120593915-c3bedc00-c45d-11eb-8f31-bdd507e740df.jpeg)  
+  ![1](./images/2bbc0066a89431f71e9ec75b1aae0f63461bea65.jpeg)  
 
   ### RDS Database engine supports
-  ![2](https://user-images.githubusercontent.com/41295276/120593920-c4f00900-c45d-11eb-9e63-d8156605ec7c.jpeg)
+  ![2](./images/39492c8a3ed8ecc781a3fb94ccfdc8fcb7065484.jpeg)
 
   ### Relational Datbase Service
-  ![3](https://user-images.githubusercontent.com/41295276/120593908-c28daf00-c45d-11eb-83d1-69a53e2ce61a.jpeg)
+  ![3](./images/13736cb0346517a63d34733bf66553c0f600e40f.jpeg)
   
   ### Backup and Restore,and Snapshots
-  ![4](https://user-images.githubusercontent.com/41295276/120593901-c1f51880-c45d-11eb-966a-23107a2ffb70.jpeg)
+  ![4](./images/f0305fdc6a283579311c8a4ad5fe3f36092488c0.jpeg)
   
   ### Read Replicas
-  ![5](https://user-images.githubusercontent.com/41295276/120593897-c0c3eb80-c45d-11eb-86d4-5473d3e9dacc.jpeg)
+  ![5](./images/66813b19af3807d1f52a1932e17b606263bbfb51.jpeg)
   
   ### Replica Network costs, Multi AZ comparision
-  ![6](https://user-images.githubusercontent.com/41295276/120593882-bb66a100-c45d-11eb-8183-479991735153.jpeg)
+  ![6](./images/7be4d7606e8c97cbef7945d1d466f086523b6d7f.jpeg)
   
   
   

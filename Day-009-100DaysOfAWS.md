@@ -16,13 +16,13 @@
 ## My Notes
 
   ### Network Load balancer
-  ![1](https://user-images.githubusercontent.com/41295276/120271438-fa172280-c2c8-11eb-81b5-726aaa226216.jpeg)
+  ![1](./images/d92fa2c9c3445031b1409795dc1ea5d39001f14e.jpeg)
   
   ### NLB vs ALB
-  ![2](https://user-images.githubusercontent.com/41295276/120271422-f4214180-c2c8-11eb-8f59-16c85589895d.jpeg)
+  ![2](./images/43d43c4c08c6d38f57edf8abe5fa9c7a4adbe05a.jpeg)
   
   ### Sticky session and Cross Zone Load Balancing
-  ![3](https://user-images.githubusercontent.com/41295276/120271434-f8e5f580-c2c8-11eb-8158-d9b1d9af2d1b.jpeg)
+  ![3](./images/5843161500f0ab37e24bca57c89958ac45c46efc.jpeg)
 
 
 

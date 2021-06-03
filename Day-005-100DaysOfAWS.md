@@ -16,12 +16,12 @@
 ## My Notes
 
   ### EC2 Security Groups
-  ![JPEG image-39A971C07B5C-1](https://user-images.githubusercontent.com/41295276/119937722-ec039200-bfa8-11eb-9761-3f658dba0584.jpeg)
+  ![JPEG image-39A971C07B5C-1](./images/7c76abe3fca662fd16e6c91ce34b2d1c654c0e16.jpeg)
 
   ### AWS CLI (Command Line Interface)
-  ![JPEG image-39A971C07B5C-2](https://user-images.githubusercontent.com/41295276/119937720-eb6afb80-bfa8-11eb-96da-107f7e542690.jpeg)
+  ![JPEG image-39A971C07B5C-2](./images/57a0b95b9ab0db8e0d10f4a579ebce082294118b.jpeg)
   
   ### EC2 Instance CONNECT
-  ![JPEG image-39A971C07B5C-3](https://user-images.githubusercontent.com/41295276/119937708-e73ede00-bfa8-11eb-899b-0e235e8167f1.jpeg)
+  ![JPEG image-39A971C07B5C-3](./images/2f338d4a02fd5ce0c35b328185f5e5e9c281699b.jpeg)
 
 

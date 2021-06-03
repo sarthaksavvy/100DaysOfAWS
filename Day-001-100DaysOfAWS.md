@@ -24,8 +24,8 @@ I have started with the course I have given and completed the AWS Introduction.
 ## My Notes
 
 
-![IMG_2940F4DE1C20-1](https://user-images.githubusercontent.com/41295276/119299090-e7bf3800-bc7b-11eb-8747-a261abe8efab.jpeg)
+![IMG_2940F4DE1C20-1](./images/c96d2e354c3c176f3b04a9442681ccf720e8d65f.jpeg)
 
-![IMG_BCB3EE289579-1](https://user-images.githubusercontent.com/41295276/119299085-e68e0b00-bc7b-11eb-8456-248884b7800a.jpeg)
+![IMG_BCB3EE289579-1](./images/aa85e7d4de97755a2ad8ca4f61ee9e41d53ff0c0.jpeg)
 
 ![IMG_F287858B1802-1](https://user-images.githubusercontent.com/41295276/119299053-dece6680-bc7b-11eb-9a15-eed42448a16e.jpeg)

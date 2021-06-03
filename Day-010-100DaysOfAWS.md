@@ -17,16 +17,16 @@
 ## My Notes
 
   ### Auto Scaling Instance Lifecycle
-  ![1](https://user-images.githubusercontent.com/41295276/120451970-826ff300-c3af-11eb-9266-9cc0775a001a.jpeg)
+  ![1](./images/bf35d5cc32b1004bb9fa05123f5e896e81de7a6e.jpeg)
   
   ### What is Auto Scaling
-  ![2](https://user-images.githubusercontent.com/41295276/120452004-89970100-c3af-11eb-8c99-26ed4fb5a8e8.jpeg)
+  ![2](./images/3dab90a4115610c14ae55aa9e8eca828e1bfe6c7.jpeg)
   
   ### Key components of Auto Scaling
-  ![3](https://user-images.githubusercontent.com/41295276/120452000-88fe6a80-c3af-11eb-819b-546798188593.jpeg)
+  ![3](./images/4200c0c7320648516b5e31f98750f0e4c3ed832d.jpeg)
 
   ### Cloudwatch Alarm
-  ![4](https://user-images.githubusercontent.com/41295276/120451996-8865d400-c3af-11eb-8d06-d71296de2c38.jpeg)
+  ![4](./images/496273a25ba22f1c056f382da48b7c489396b53c.jpeg)
     
   ### Scaling Policy
-  ![5](https://user-images.githubusercontent.com/41295276/120451989-8734a700-c3af-11eb-9a5b-0dae321d2197.jpeg)
+  ![5](./images/7f31cf22dd1d88768aebe5e610d3a03d8a97a529.jpeg)
