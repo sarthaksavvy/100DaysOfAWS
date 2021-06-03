@@ -1,0 +1,6 @@
+name: Action to compress image
+description: Crawl through markdown files and convert/compress github hosted images to local asset
+
+runs:
+  using: docker
+  image: Dockerfile
