@@ -18,13 +18,13 @@
 ## My Notes
 
   ### AWS Budget and Billing
-  ![JPEG image-043B76C84C33-1](https://user-images.githubusercontent.com/41295276/119827521-dc3b6d80-bf16-11eb-96b0-6a490898a322.jpeg)
+  ![JPEG image-043B76C84C33-1](./images/71a9b17332706dc1421ed4da47c9f4b2039fdef5.jpeg)
 
   ### AWS EC2 (Elastic Compute Cloud)
-  ![JPEG image-043B76C84C33-2](https://user-images.githubusercontent.com/41295276/119827550-e3fb1200-bf16-11eb-9552-259a90650451.jpeg)
+  ![JPEG image-043B76C84C33-2](./images/9db3c71b3a58870382a2d3dac7590c022e999a7d.jpeg)
 
   ### EC2 features
-  ![JPEG image-043B76C84C33-3](https://user-images.githubusercontent.com/41295276/119827554-e5c4d580-bf16-11eb-8b1a-df5d21672ddc.jpeg)
+  ![JPEG image-043B76C84C33-3](./images/9c27da5becdc25b8ae822000264cb26a9c1e4020.jpeg)
 
   ### EC2 Instance Types
-  ![JPEG image-043B76C84C33-4](https://user-images.githubusercontent.com/41295276/119827559-e8272f80-bf16-11eb-8356-62755cf4867d.jpeg)
+  ![JPEG image-043B76C84C33-4](./images/6014bd4d8dcb2962161687c1119644bd3bb002dc.jpeg)

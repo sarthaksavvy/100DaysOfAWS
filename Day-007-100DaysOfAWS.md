@@ -15,8 +15,8 @@
 ## My Notes
 
   ### EC2 Instance Store
-  ![JPEG image-3A44A1006A3F-1](https://user-images.githubusercontent.com/41295276/120095430-90b9d700-c143-11eb-96a7-235939a12647.jpeg)
+  ![JPEG image-3A44A1006A3F-1](./images/1898e0c4a9e591d4873e47b2c31ce056c1b83f59.jpeg)
   
   ### EFS ( Elastic File System)
-  ![JPEG image-3A44A1006A3F-2](https://user-images.githubusercontent.com/41295276/120095423-8bf52300-c143-11eb-8f78-f6b7f03c440f.jpeg)
+  ![JPEG image-3A44A1006A3F-2](./images/09954354ca8490ff2a3795a9dd159cc01598df4a.jpeg)
 

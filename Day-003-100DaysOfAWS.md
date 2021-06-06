@@ -18,10 +18,10 @@
 
 ## My Notes
   ### IAM Roles and Its use case
-  ![JPEG image-01109C6CD770-1](https://user-images.githubusercontent.com/41295276/119606023-6d272180-be0f-11eb-929f-2d7f4898df63.jpeg)
+  ![JPEG image-01109C6CD770-1](./images/4058342031b72a2dcae00f4ebed2f1cc363eef69.jpeg)
   
   ### IAM Security with Multi Factor Authentication (MFA)
-  ![JPEG image-01109C6CD770-2](https://user-images.githubusercontent.com/41295276/119606037-72846c00-be0f-11eb-9228-f4db1ac0e9cc.jpeg)
+  ![JPEG image-01109C6CD770-2](./images/217b9b9f2315738a7cc7c55fd8c71fa04c798483.jpeg)
   
   ### IAM Security with User Audit
-  ![JPEG image-01109C6CD770-3](https://user-images.githubusercontent.com/41295276/119606041-73b59900-be0f-11eb-8cd8-9d9306fd8a06.jpeg)
+  ![JPEG image-01109C6CD770-3](./images/9a7ed503ee0a77fcac003db7952687bdff996ecd.jpeg)

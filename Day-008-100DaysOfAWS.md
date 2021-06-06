@@ -16,16 +16,16 @@
 ## My Notes
 
   ### What is Load balancer
-  ![1](https://user-images.githubusercontent.com/41295276/120160383-d219b780-c213-11eb-9203-c91b79a84a0e.jpeg)
+  ![1](./images/4d2ae8571bf3f9bd7415793d2669567afa8ded3f.jpeg)
 
   ### Elastic Load Balancing
-  ![2](https://user-images.githubusercontent.com/41295276/120160418-db0a8900-c213-11eb-8170-ee59fb512001.jpeg)
+  ![2](./images/5d9666c58c65a52e74657d822df43d8d509110ae.jpeg)
   
   ### Classic Load Balancer
-  ![3](https://user-images.githubusercontent.com/41295276/120160409-d9d95c00-c213-11eb-8a1b-0ad79d479534.jpeg)
+  ![3](./images/e9109dc6df089fad77ff0c001a3ecc32741c8cde.jpeg)
   
   ###  Application Load Balancer
-  ![4](https://user-images.githubusercontent.com/41295276/120160401-d7770200-c213-11eb-86d9-f86644aec27b.jpeg)
+  ![4](./images/6f4127c15f5cc104d93716205f0ea84907978a64.jpeg)
 
 
 
