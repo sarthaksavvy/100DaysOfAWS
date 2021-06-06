@@ -49,8 +49,8 @@
 ## Day 12 (04 June, 2021) Amazon Elastic Cache
 [Click Here to Read More](/Day-012-100DaysOfAWS.md)
 
-## Day 13 (05 June, 2021)
-Not yet started
+## Day 13 (06 June, 2021) Route 53
+[Click Here to Read More](/Day-013-100DaysOfAWS.md)
 
 ## Day 14 (06 June, 2021)
 Not yet started
