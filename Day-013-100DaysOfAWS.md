@@ -15,11 +15,11 @@
 ## My Notes
 
   ### Route 53 Policies
-  ![1](https://user-images.githubusercontent.com/41295276/120915651-86a75380-c6c2-11eb-88ea-feb1e666deb3.jpeg)
+  ![1](./images/a85238f17c4e0fb699ad64976dc7f4e05c2eb549.jpeg)
   
   ### What is Route 53
-  ![2](https://user-images.githubusercontent.com/41295276/120915650-84dd9000-c6c2-11eb-82a1-cf70a4d769d6.jpeg)
+  ![2](./images/6eeba4ee246b54f36d0e13e276a405b78fa1697b.jpeg)
   
   ### TTL and Difference in CNAME and Alias
-  ![3](https://user-images.githubusercontent.com/41295276/120915644-80b17280-c6c2-11eb-9d39-2ba89748f1d9.jpeg)
+  ![3](./images/443a3fa89f5e1923cb7b482330ccff200d3cbbbe.jpeg)
   
