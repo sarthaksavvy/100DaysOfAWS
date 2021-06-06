@@ -28,4 +28,4 @@ I have started with the course I have given and completed the AWS Introduction.
 
 ![IMG_BCB3EE289579-1](./images/aa85e7d4de97755a2ad8ca4f61ee9e41d53ff0c0.jpeg)
 
-![IMG_F287858B1802-1](https://user-images.githubusercontent.com/41295276/119299053-dece6680-bc7b-11eb-9a15-eed42448a16e.jpeg)
+![IMG_F287858B1802-1](./images/f7a5534f921f4d88787adac508835a82aa67ac1f.jpeg)

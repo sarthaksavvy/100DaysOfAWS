@@ -19,20 +19,20 @@
 ## My Notes
 
   ### Amazon Elastic Cache
-  ![1](https://user-images.githubusercontent.com/41295276/120773245-ca715000-c53e-11eb-8e5c-1a2f0249f97b.jpeg)
+  ![1](./images/bd5f936523908bc00689144b39a893ac0efaf31c.jpeg)
 
   ### How caching works
-  ![2](https://user-images.githubusercontent.com/41295276/120773248-cb09e680-c53e-11eb-80e0-5bd8f3f6b2c1.jpeg)
+  ![2](./images/fb58183ab70277d30a46d889b55b3cfc2e072675.jpeg)
   
   ### Redis vs Memcached
-  ![3](https://user-images.githubusercontent.com/41295276/120773244-c9d8b980-c53e-11eb-885a-c4b1c9305098.jpeg)
+  ![3](./images/a1a2d9b5e8f00fc8dbc8d9997d82be33c1aea94b.jpeg)
     
   ### Caching Strategy
-  ![4](https://user-images.githubusercontent.com/41295276/120773243-c8a78c80-c53e-11eb-89b8-fe59756f47de.jpeg)
+  ![4](./images/700402cf56bdd1800b2a176ba71559fde7f1a50e.jpeg)
 
   ### Write Through Caching Strategy
-  ![5](https://user-images.githubusercontent.com/41295276/120773240-c80ef600-c53e-11eb-9e7b-c8102a48963a.jpeg)
+  ![5](./images/c514abef94bdbf705da5009d530accff4d722ec9.jpeg)
 
   ### Adding TTL Caching Strategy
-  ![6](https://user-images.githubusercontent.com/41295276/120773224-c3e2d880-c53e-11eb-97e5-ff03d9f092b3.jpeg)
+  ![6](./images/0346e8bbdfe4c3c6623f366d929533b0a671d492.jpeg)
 
