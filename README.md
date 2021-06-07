@@ -52,8 +52,8 @@
 ## Day 13 (06 June, 2021) Route 53
 [Click Here to Read More](/Day-013-100DaysOfAWS.md)
 
-## Day 14 (06 June, 2021)
-Not yet started
+## Day 14 (06 June, 2021) Routing Policies
+[Click Here to Read More](/Day-014-100DaysOfAWS.md)
 
 ## Day 15 (07 June, 2021)
 Not yet started
