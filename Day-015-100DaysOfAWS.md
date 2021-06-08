@@ -19,16 +19,16 @@
 ## My Notes
 
   ### What is VPC and what it includes
-  ![1](https://user-images.githubusercontent.com/41295276/121141064-2e09bf00-c858-11eb-9a6c-8df3ec64981e.jpeg)
+  ![1](./images/4d0358662f52c817fb37e51fe6c1488b27173d64.jpeg)
   
   ### VPC and Subnet
-  ![2](https://user-images.githubusercontent.com/41295276/121141061-2d712880-c858-11eb-84bc-589354480d73.jpeg)
+  ![2](./images/21f491dc21ffe0a06a9d069ba269d91076f2e5cb.jpeg)
   
   ### Route Table, Internet Gateway and Network ACL
-  ![3](https://user-images.githubusercontent.com/41295276/121141054-2c3ffb80-c858-11eb-9887-1b8b72f069b6.jpeg)
+  ![3](./images/1ed59ab41351d9afb6cac058e8e2cdc90d20b2e1.jpeg)
   
   ### Security Group vs Network ACL and Flow Log
-  ![4](https://user-images.githubusercontent.com/41295276/121141033-26e2b100-c858-11eb-8ff3-7e072e8d19c9.jpeg)
+  ![4](./images/930fd8c8807969bac3f510248d06f50bd601adc9.jpeg)
   
   
 
