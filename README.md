@@ -55,8 +55,8 @@
 ## Day 14 (06 June, 2021) Routing Policies
 [Click Here to Read More](/Day-014-100DaysOfAWS.md)
 
-## Day 15 (07 June, 2021)
-Not yet started
+## Day 15 (08 June, 2021) Virtual Private Cloud
+[Click Here to Read More](/Day-015-100DaysOfAWS.md)
 
 ## Day 16 (08 June, 2021)
 Not yet started
