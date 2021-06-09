@@ -21,13 +21,13 @@
 ## My Notes
 
   ### Amazong S3 and its concepts
-  ![1](https://user-images.githubusercontent.com/41295276/121351879-da779e00-c949-11eb-94b3-ffea6eb91bbd.jpeg)
+  ![1](./images/e53e794cb6e486560d9240f009296fd399e0bc2d.jpeg)
 
   ### Keys, Regions, and Objects
-  ![2](https://user-images.githubusercontent.com/41295276/121351875-d9df0780-c949-11eb-9c81-c96cc24943c1.jpeg)
+  ![2](./images/65f2ef51b1381fbfb4953c2ed1beba6684318c12.jpeg)
 
   ### Data consistency and Storage Classes
-  ![3](https://user-images.githubusercontent.com/41295276/121351867-d8adda80-c949-11eb-8ce4-52b3cd58d118.jpeg)
+  ![3](./images/a4c1e94289d90e095c30d22fad73760b9f5ea302.jpeg)
   
   ### Versioning
-  ![4](https://user-images.githubusercontent.com/41295276/121351848-d481bd00-c949-11eb-8a6e-7039f78cf2b5.jpeg)
+  ![4](./images/34744dda9927ef7b18183e91adfd54b03e44430a.jpeg)
