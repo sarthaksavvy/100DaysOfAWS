@@ -18,10 +18,10 @@
 ## My Notes
 
   ### S3 Encryption
-  ![1](https://user-images.githubusercontent.com/41295276/121470471-e613a500-c9db-11eb-9ba4-ea57718c84f1.jpeg)
+  ![1](./images/fe76e42fd97b8a579bd4903fc26626676aa56538.jpeg)
   
   ### Server Side Encryption
-  ![2](https://user-images.githubusercontent.com/41295276/121470466-e4e27800-c9db-11eb-80c9-b2af7f453eaf.jpeg)
+  ![2](./images/d93f41a5a910f66ffc517b26dd16305960ab273a.jpeg)
 
   ### User Policy and Bucket Policy
-  ![3](https://user-images.githubusercontent.com/41295276/121470452-e0b65a80-c9db-11eb-8e7d-70ce618636be.jpeg)
+  ![3](./images/4a78c39fa6aca9ab715b8c281ff0956dbc2c8714.jpeg)
