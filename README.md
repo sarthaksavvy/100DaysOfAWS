@@ -58,11 +58,11 @@
 ## Day 15 (08 June, 2021) Virtual Private Cloud
 [Click Here to Read More](/Day-015-100DaysOfAWS.md)
 
-## Day 16 (08 June, 2021)
-Not yet started
+## Day 16 (09 June, 2021)
+[Click Here to Read More](/Day-016-100DaysOfAWS.md)
 
-## Day 17 (09 June, 2021)
-Not yet started
+## Day 17 (10 June, 2021)
+[Click Here to Read More](/Day-017-100DaysOfAWS.md)
 
 ## Day 18 (10 June, 2021)
 Not yet started
