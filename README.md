@@ -64,14 +64,14 @@
 ## Day 17 (10 June, 2021) S3 Encryption and Policies
 [Click Here to Read More](/Day-017-100DaysOfAWS.md)
 
-## Day 18 (10 June, 2021) Hosting Static Website and CORS
+## Day 18 (11 June, 2021) Hosting Static Website and CORS
 [Click Here to Read More](/Day-018-100DaysOfAWS.md)
 
-## Day 19 (11 June, 2021)
+## Day 19 (12 June, 2021)
 Not yet started
 
-## Day 20 (12 June, 2021)
+## Day 20 (13 June, 2021)
 Not yet started
 
-## Day 21 (13 June, 2021)
+## Day 21 (14 June, 2021)
 Not yet started
