@@ -14,7 +14,7 @@
 ## My Notes
 
   ### Hosting Static Website on S3
-  ![JPEG image-963F03C4E331-2](./images/6d6ee85f81fa00e492c39ea627a280f35e98a11a.jpeg)
+  ![JPEG image-963F03C4E331-1](./images/a39c4f428de0abe82f2721618ebda075c331587b.jpeg)
 
   ### What is CORS and how it works
-  ![JPEG image-963F03C4E331-1](./images/a39c4f428de0abe82f2721618ebda075c331587b.jpeg)
+  ![JPEG image-963F03C4E331-2](./images/6d6ee85f81fa00e492c39ea627a280f35e98a11a.jpeg)
