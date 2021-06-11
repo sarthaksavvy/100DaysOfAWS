@@ -58,14 +58,14 @@
 ## Day 15 (08 June, 2021) Virtual Private Cloud
 [Click Here to Read More](/Day-015-100DaysOfAWS.md)
 
-## Day 16 (09 June, 2021)
+## Day 16 (09 June, 2021) Amazon S3 Bucket
 [Click Here to Read More](/Day-016-100DaysOfAWS.md)
 
-## Day 17 (10 June, 2021)
+## Day 17 (10 June, 2021) S3 Encryption and Policies
 [Click Here to Read More](/Day-017-100DaysOfAWS.md)
 
-## Day 18 (10 June, 2021)
-Not yet started
+## Day 18 (10 June, 2021) Hosting Static Website and CORS
+[Click Here to Read More](/Day-018-100DaysOfAWS.md)
 
 ## Day 19 (11 June, 2021)
 Not yet started
