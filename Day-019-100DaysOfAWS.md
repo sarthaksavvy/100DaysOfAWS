@@ -16,8 +16,8 @@
 ## My Notes
 
   ### S3 Event Notification and Pre signed URL
-  ![1](https://user-images.githubusercontent.com/41295276/121768620-ae902e80-cb7c-11eb-880a-0be46b2feaf8.jpeg)
+  ![1](./images/721197e0965d08ba5bd60df126ee576eb7f7fc26.jpeg)
   
   ### Object Replication and Amazon Athena
-  ![2](https://user-images.githubusercontent.com/41295276/121768616-aa641100-cb7c-11eb-82f0-c3f82fa5c323.jpeg)
+  ![2](./images/fc472bf9a8768deeb04655de5b48f65cc580548d.jpeg)
 
