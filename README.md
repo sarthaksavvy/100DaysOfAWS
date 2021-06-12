@@ -67,8 +67,8 @@
 ## Day 18 (11 June, 2021) Hosting Static Website and CORS
 [Click Here to Read More](/Day-018-100DaysOfAWS.md)
 
-## Day 19 (12 June, 2021)
-Not yet started
+## Day 19 (12 June, 2021) Event Notification, Pre Signed URL, Replica and Athena
+[Click Here to Read More](/Day-019-100DaysOfAWS.md)
 
 ## Day 20 (13 June, 2021)
 Not yet started
