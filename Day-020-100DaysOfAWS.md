@@ -13,13 +13,13 @@
 ## My Notes
 
   ### S3 Storage Classes, S3 standard and S3 Intelligent Tiering
-  ![1](https://user-images.githubusercontent.com/41295276/121798250-d9dd5100-cc42-11eb-97e3-3b812e4b39ef.jpeg)
+  ![1](./images/6764813bf2ad21a20cf3fd0e7553511621f43341.jpeg)
 
   ### S3 Standard-IA and S3 One Zone-IA
-  ![2](https://user-images.githubusercontent.com/41295276/121798249-d8138d80-cc42-11eb-850a-ae26e64b0783.jpeg)
+  ![2](./images/e711d837d1eee4ba4637f15bc68d1fad45f31b76.jpeg)
 
   ### S3 Glacier and S3 Glacier Deep Archive
-  ![3](https://user-images.githubusercontent.com/41295276/121798245-d2b64300-cc42-11eb-8803-17de85b0f32d.jpeg)
+  ![3](./images/4f7854991c4a5eb9257e5afe7ef455ba101eb7de.jpeg)
 
 
   
