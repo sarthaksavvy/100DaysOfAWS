@@ -16,7 +16,7 @@
 ## My Notes
 
   ### What is Cloudfront & Usecase of CLoudfront
-  ![1](https://user-images.githubusercontent.com/41295276/121854498-debc0680-cd0f-11eb-993f-5e8249f2de6a.jpeg)
+  ![1](./images/c8f1b37a485b453318f9b899229ffba365571e29.jpeg)
   
  ### How cloudfront deliver content & Cache behaviour
-  ![2](https://user-images.githubusercontent.com/41295276/121854483-d9f75280-cd0f-11eb-8c91-13d7591b68ec.jpeg)
+  ![2](./images/5b69806dacd3a589390e893ad3a90c61c69e627c.jpeg)
