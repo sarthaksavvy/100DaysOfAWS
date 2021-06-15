@@ -3,8 +3,8 @@
 **Congrat, since you are here this means you have completed Day 20 and working on Day 21**
 
 ## Hands on video
-<a href="https://youtu.be/7n-AIcNqgl8">
-<img src="https://i3.ytimg.com/vi/7n-AIcNqgl8/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+<a href="https://youtu.be/blXNjSvKPA0">
+<img src="https://i3.ytimg.com/vi/blXNjSvKPA0/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
 </a>
 
 ## Topic Covered
