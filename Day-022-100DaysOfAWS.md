@@ -12,8 +12,8 @@
 ## My Notes
 
   ### Cloudfront Signed URL
-  ![1](https://user-images.githubusercontent.com/41295276/122012284-a0d7e480-cdda-11eb-9e4c-00ba7c23a446.jpeg)
+  ![1](./images/5c7b8a8608977bcdc71e47c945a2b8f049f90243.jpeg)
   
   ### Signed URL and Signed Cookies
-  ![2](https://user-images.githubusercontent.com/41295276/122012269-9b7a9a00-cdda-11eb-99f4-ac823a28ae9a.jpeg)
+  ![2](./images/6f74e4926c731509cf12273a91a520534f5dbfc4.jpeg)
 
