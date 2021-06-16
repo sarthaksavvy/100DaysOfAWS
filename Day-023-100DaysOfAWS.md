@@ -16,13 +16,13 @@
 ## My Notes
 
   ### What is ECR
-  ![1](https://user-images.githubusercontent.com/41295276/122179610-4fe0f280-cea5-11eb-8f2a-f3fa7d37d6b7.jpeg)
+  ![1](./images/704cbf8502a3dc5b7f6521c8ec4870a8417ccfbc.jpeg)
 
   ### How ECR works
-  ![2](https://user-images.githubusercontent.com/41295276/122179605-4eafc580-cea5-11eb-832a-675386a0805f.jpeg)
+  ![2](./images/bce8067b82eb8d7f91c3b98b71f2f279b234db66.jpeg)
   
   ### Features of ECR
-  ![3](https://user-images.githubusercontent.com/41295276/122179573-49527b00-cea5-11eb-80fd-255fe223ca98.jpeg)
+  ![3](./images/7a0158216df50ecc102ce1bedfb01594c78159cb.jpeg)
 
 
   
