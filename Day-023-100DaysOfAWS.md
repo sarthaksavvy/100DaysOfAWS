@@ -3,8 +3,8 @@
 **Congrat, since you are here this means you have completed Day 22 and working on Day 23**
 
 ## Hands on video
-<a href="https://youtu.be/oPKuRsemap0">
-<img src="https://i3.ytimg.com/vi/oPKuRsemap0/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+<a href="https://youtu.be/kWZLucHQ_N0">
+<img src="https://i3.ytimg.com/vi/kWZLucHQ_N0/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
 </a>
 
 ## Topic Covered
