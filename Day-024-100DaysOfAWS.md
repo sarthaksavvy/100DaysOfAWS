@@ -16,10 +16,10 @@
 ## My Notes
 
   ### What is ECS, container and Image
-  ![1](https://user-images.githubusercontent.com/41295276/122348375-b8dd6e80-cf68-11eb-81fd-cdbc8a8cf4c0.jpeg)
+  ![1](./images/2525b704a1fa5f95f85242e3d1f7679427d000d2.jpeg)
   
   ### Task Scheduling and Cluster
-  ![2](https://user-images.githubusercontent.com/41295276/122348390-bda22280-cf68-11eb-8191-990e2b801171.jpeg)
+  ![2](./images/3efb33356b7f492ebc84edb94f00125a3b517390.jpeg)
   
   ### Container agent
-  ![3](https://user-images.githubusercontent.com/41295276/122348398-bed34f80-cf68-11eb-9861-3de7d2830f20.jpeg)
+  ![3](./images/adb9599cbaffd734c2a3e6b707133637b6982f99.jpeg)
