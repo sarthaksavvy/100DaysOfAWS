@@ -84,3 +84,6 @@
 
 ## Day 24 (17 June, 2021) Amazon ECS
 [Click Here to Read More](/Day-024-100DaysOfAWS.md)
+
+## Day 25 (18 June, 2021) Amazon ECS - Fargate
+[Click Here to Read More](/Day-025-100DaysOfAWS.md)
