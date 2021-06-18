@@ -15,13 +15,13 @@
 ## My Notes
 
   ### Task Placement strategies
-  ![1](https://user-images.githubusercontent.com/41295276/122573617-86b53500-d06c-11eb-8693-e8d032080523.jpeg)
+  ![1](./images/d6620dad4aaf8d665d106f1ffb5ac9c589016c82.jpeg)
   
   ### What is AWS Fargate
-  ![2](https://user-images.githubusercontent.com/41295276/122573595-85840800-d06c-11eb-9f82-c16e9882c09a.jpeg)
+  ![2](./images/f0ff51614ea6a184629e12e7ef8f3a30adbba8ed.jpeg)
   
   ### Benefits of Fargate
-  ![3](https://user-images.githubusercontent.com/41295276/122573511-7d2bcd00-d06c-11eb-956a-5aa435c6f0b1.jpeg)
+  ![3](./images/29bc3dc31c3f64dc52f17d8bc60991056da8ed13.jpeg)
 
 
   
