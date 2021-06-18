@@ -1,4 +1,4 @@
-# Day 24 5 Amazon Elastic Container Service - Fargate
+# Day 25 Amazon Elastic Container Service - Fargate
 
 **Congrat, since you are here this means you have completed Day 24 and working on Day 25**
 
