@@ -3,8 +3,8 @@
 **Congrat, since you are here this means you have completed Day 24 and working on Day 25**
 
 ## Hands on video
-<a href="https://youtu.be/jV7R1TNKzks">
-<img src="https://i3.ytimg.com/vi/jV7R1TNKzks/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+<a href="https://youtu.be/wQ3-3qJu9Eo">
+<img src="https://i3.ytimg.com/vi/wQ3-3qJu9Eo/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
 </a>
 
 ## Topic Covered
