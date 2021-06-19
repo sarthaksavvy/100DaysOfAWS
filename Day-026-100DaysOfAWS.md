@@ -12,10 +12,10 @@
 ## My Notes
 
   ### What is Elastic Beanstalk
-  ![1](https://user-images.githubusercontent.com/41295276/122647751-5ab8b300-d143-11eb-98b7-0a0206d391b8.jpeg)
+  ![1](./images/aaf808e97387cc152ba70935ca69fc004659e50e.jpeg)
 
   ### Elastic Beanstalk Concepts
-  ![2](https://user-images.githubusercontent.com/41295276/122647752-5be9e000-d143-11eb-9d95-07c703a88342.jpeg)
+  ![2](./images/a4f195e16ddeac1e34107b9057dea296cacb785f.jpeg)
   
   ### Environment and Platform
-  ![3](https://user-images.githubusercontent.com/41295276/122647754-5d1b0d00-d143-11eb-9f9c-8cd6ea0cab95.jpeg)
+  ![3](./images/98c00074739e668abb8a62850be010ad0070d674.jpeg)
