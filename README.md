@@ -61,3 +61,7 @@
 ### Day 24 (17 June, 2021) Amazon ECS [Click Here to Read More](/Day-024-100DaysOfAWS.md)
 
 ### Day 25 (18 June, 2021) Amazon ECS - Fargate [Click Here to Read More](/Day-025-100DaysOfAWS.md)
+
+### Day 26 (19 June, 2021) Amazon Elastic Beanstalk [Click Here to Read More](/Day-026-100DaysOfAWS.md)
+
+### Day 27 (26 June, 2021) Beanstalk Deployment Strategies [Click Here to Read More](/Day-027-100DaysOfAWS.md)
