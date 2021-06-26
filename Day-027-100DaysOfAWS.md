@@ -10,6 +10,6 @@
 ## Topic Covered
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/123503630-d352ce80-d671-11eb-815f-a1ffd4e9b480.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/123503634-d8178280-d671-11eb-9b42-84a39e504303.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/123503635-d948af80-d671-11eb-9467-3fb883894150.jpeg)
+  ![1](./images/4917d14cddf21f7d523f99985dfcb979adbabc49.jpeg)
+  ![2](./images/fdd34d68420fdc2da4931900175d72dec689f709.jpeg)
+  ![3](./images/4208b0ac29338b9a54c64845318b14a67e33b8ee.jpeg)
