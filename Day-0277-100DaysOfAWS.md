@@ -1,6 +1,6 @@
-# Day 28 AWS Code Commit
+# Day 27 Amazon Elastic Beanstalk Deployment Strategies
 
-**Congrat, since you are here this means you have completed Day 27 and working on Day 28**
+**Congrat, since you are here this means you have completed Day 26 and working on Day 27**
 
 ## Hands on video
 <a href="https://youtu.be/8DX_QdfCZTQ">
