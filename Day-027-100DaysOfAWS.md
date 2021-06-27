@@ -14,5 +14,5 @@
   - Code Commit Encryption
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/123536267-f3a08d00-d746-11eb-96b5-e8589e884911.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/123536273-f7ccaa80-d746-11eb-8957-476b5f24087c.jpeg)
+  ![1](./images/9f8d775c51ac6c82ea05b0ca9f4c83ae37ace8fc.jpeg)
+  ![2](./images/1dc32b68a1987227401fb8b2636226d12fc90e22.jpeg)
