@@ -3,8 +3,8 @@
 **Congrat, since you are here this means you have completed Day 27 and working on Day 28**
 
 ## Hands on video
-<a href="https://youtu.be/8DX_QdfCZTQ">
-<img src="https://i3.ytimg.com/vi/8DX_QdfCZTQ/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+<a href="https://youtu.be/Dn8tJPglKxc">
+<img src="https://i3.ytimg.com/vi/Dn8tJPglKxc/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
 </a>
 
 ## Topics
