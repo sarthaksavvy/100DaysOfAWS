@@ -67,3 +67,5 @@
 ### Day 27 (26 June, 2021) Beanstalk Deployment Strategies [Click Here to Read More](/Day-027-100DaysOfAWS.md)
 
 ### Day 28 (27 June, 2021) Code Commit [Click Here to Read More](/Day-028-100DaysOfAWS.md)
+
+### Day 29 (28 June, 2021) Code Pipelines [Click Here to Read More](/Day-029-100DaysOfAWS.md)
