@@ -12,6 +12,6 @@
   - Code Pipeline Features
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/123605443-76921800-d819-11eb-8006-70c6faa32ed5.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/123605454-7abe3580-d819-11eb-8a1a-e3654074ab02.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/123605460-7bef6280-d819-11eb-9966-e52a6c8ff663.jpeg)
+  ![1](./images/a427a067bdedcbe007829e03606d387d99577e7a.jpeg)
+  ![2](./images/6838738eba6c7b4559b469dede05a46db7eac504.jpeg)
+  ![3](./images/521831e2811f57ba3795998fc9478b6c1b3e9733.jpeg)
