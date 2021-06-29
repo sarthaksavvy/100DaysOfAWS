@@ -12,7 +12,7 @@
   - Code Build Features
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/123756339-7148d200-d8da-11eb-8011-0fd33365f88a.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/123756320-6d1cb480-d8da-11eb-9969-40a1a3a23aa6.jpeg)
+  ![1](./images/b94ea7417bfbe5656469155a59ce0ee873612920.jpeg)
+  ![2](./images/d5cec5965471dc8fb8dc2b6943097d42bb86d494.jpeg)
 
   
