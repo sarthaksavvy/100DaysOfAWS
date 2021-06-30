@@ -13,7 +13,7 @@
   - Code Deploy Deployment Types
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/123963125-c581ae00-d9cf-11eb-9899-b3fb2845645b.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/123963133-ca466200-d9cf-11eb-9389-e34b64f65a2e.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/123963136-cadef880-d9cf-11eb-82e5-717bdb11ed8e.jpeg)
+  ![1](./images/f613a29424dcb3c0bd2be0cb1f63d34a073b75e1.jpeg)
+  ![2](./images/4a8a7c8fcfe496d40cdeaa0748a3c6fae6fa294a.jpeg)
+  ![3](./images/5cd8fc30ae62be92d0812bf6d9ebed7fd688bb4c.jpeg)
 
