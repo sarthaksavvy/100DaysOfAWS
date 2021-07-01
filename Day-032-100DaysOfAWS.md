@@ -13,7 +13,7 @@
   - Cloud Formation Concepts
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/124079840-4770e600-da67-11eb-866e-61c825af9e29.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/124079861-4c359a00-da67-11eb-9e52-856fd6dafb80.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/124079866-4cce3080-da67-11eb-8c01-47e7972205be.jpeg)
+  ![1](./images/d166adb302d1476be2af6c97ea9ac67908e3c8e2.jpeg)
+  ![2](./images/36830e11df0dac7cb25f7fbc0ac0a82bf0bac888.jpeg)
+  ![3](./images/e1fd3dc7fbba4a3d01cef5a22921bc473065ef46.jpeg)
 
