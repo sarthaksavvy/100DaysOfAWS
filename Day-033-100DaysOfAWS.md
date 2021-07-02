@@ -13,8 +13,8 @@
   - Template resources and etc.
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/124301210-1d114c80-db7d-11eb-8a80-5d3d1de4ac16.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/124301203-1b478900-db7d-11eb-997b-02d964f246a5.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/124301195-197dc580-db7d-11eb-8da4-5d2c783a1023.jpeg)
-  ![4](https://user-images.githubusercontent.com/41295276/124301183-14b91180-db7d-11eb-91b0-2d3c6c3ad0f5.jpeg)
+  ![1](./images/4f6e9ead3e1de9d12fd7a45f7ab977ff829194a2.jpeg)
+  ![2](./images/b97eef076cf471ee3b01994d641ed803d2381b3d.jpeg)
+  ![3](./images/25cdbfdd0139f1c0c85a99a1cb87a38274bfa4b7.jpeg)
+  ![4](./images/9ca92e3bad8088299f732dc257c8e982968255df.jpeg)
 
