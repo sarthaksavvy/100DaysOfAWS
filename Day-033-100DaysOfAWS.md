@@ -3,8 +3,8 @@
 **Congrat, since you are here this means you have completed Day 32 and working on Day 33**
 
 ## Hands on video
-<a href="https://youtu.be/X9LRapLpWOQ">
-<img src="https://i3.ytimg.com/vi/X9LRapLpWOQ/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+<a href="https://youtu.be/bAGGCCCBehY">
+<img src="https://i3.ytimg.com/vi/bAGGCCCBehY/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
 </a>
 
 ## Topics
