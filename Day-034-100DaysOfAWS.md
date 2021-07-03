@@ -12,8 +12,8 @@
   - Using Ref Function
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/124348724-5bece400-dc09-11eb-8189-aef6afde2642.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/124348722-57c0c680-dc09-11eb-9aaf-c1c7eb1538af.jpeg)
+  ![1](./images/d4685a1fc8cb7cb715b68ce1cb11835b49d447fb.jpeg)
+  ![2](./images/5e654d11b52ce3382becae8c96b2319ab3c9169c.jpeg)
 
 
 
