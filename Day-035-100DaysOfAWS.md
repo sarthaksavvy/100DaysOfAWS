@@ -13,10 +13,10 @@
   - CloudWatch concepts
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/124486228-ffd1bd80-ddca-11eb-87fd-0d64dfe01da7.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/124486247-052f0800-ddcb-11eb-90d6-04c74460d93d.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/124486254-06f8cb80-ddcb-11eb-996f-2cefa571a72b.jpeg)
-  ![4](https://user-images.githubusercontent.com/41295276/124486270-08c28f00-ddcb-11eb-8400-d72b28a4c8fa.jpeg)
+  ![1](./images/ac85ec06c7428b7be24df75cbc3036088db8e007.jpeg)
+  ![2](./images/db26c82c9b3fe8bac7427f09d1d471fb9af56000.jpeg)
+  ![3](./images/c2f1714ea03bc0f86f60254ee711614be11ee8c5.jpeg)
+  ![4](./images/3737cb0d00f37303161656bb5933d6d0377e9542.jpeg)
 
 
 
