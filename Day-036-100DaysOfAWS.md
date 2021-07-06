@@ -14,9 +14,9 @@
   - Common Features o Cloudwatch Alarm
 
 ## My Notes
-  ![1](./images/ac85ec06c7428b7be24df75cbc3036088db8e007.jpeg)
-  ![2](./images/db26c82c9b3fe8bac7427f09d1d471fb9af56000.jpeg)
-  ![3](./images/c2f1714ea03bc0f86f60254ee711614be11ee8c5.jpeg)
+  ![1](https://user-images.githubusercontent.com/41295276/124577934-5e4e7880-de6b-11eb-8100-718b1ba4fd7c.jpeg)
+  ![2](https://user-images.githubusercontent.com/41295276/124577929-5db5e200-de6b-11eb-8752-35ccdb7b04b3.jpeg)
+  ![3](https://user-images.githubusercontent.com/41295276/124577907-58589780-de6b-11eb-9e25-d459721f60ad.jpeg)
 
 
 
