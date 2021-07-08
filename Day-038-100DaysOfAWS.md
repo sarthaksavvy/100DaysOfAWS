@@ -13,6 +13,6 @@
   - X-Ray Concepts
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/124873810-9200de00-dfe4-11eb-9d7b-3041aab9faf0.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/124873807-90cfb100-dfe4-11eb-8983-8be33339848d.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/124873792-8ca39380-dfe4-11eb-9282-93252774b3d6.jpeg)
+  ![1](./images/5c6b85912131519ac266c1eee8166bf0c5315045.jpeg)
+  ![2](./images/122b9cbe243e6d6b572b8d0862702c4c3a44bdcb.jpeg)
+  ![3](./images/16941e977759a165edadfe27c38d54c781f83e6e.jpeg)
