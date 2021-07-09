@@ -13,6 +13,6 @@
   - Ways to Managing CloudTrail
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/125037945-69471a00-e0b2-11eb-96ab-43ee12d0ce2f.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/125037935-65b39300-e0b2-11eb-9b98-a89d8d628e71.jpeg)
+  ![1](./images/d1ef5cd6b9f40d794cfbdd6a743691030b681280.jpeg)
+  ![2](./images/ae967f5fb84e8cc537285bbedd1eae2470795532.jpeg)
   
