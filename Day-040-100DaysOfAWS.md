@@ -14,7 +14,7 @@
   - Pricing for SQS
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/125163931-287ffb80-e1ad-11eb-8a3d-d8fd48c866fa.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/125163935-2ddd4600-e1ad-11eb-90de-f83352f30874.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/125163938-2f0e7300-e1ad-11eb-86db-a5d3cc1ca1a7.jpeg)
+  ![1](./images/b68f739a3e77e2fc53d26798526a2246c68adb89.jpeg)
+  ![2](./images/0dd4a6977c21b86cd9f8df0433bae727937422c7.jpeg)
+  ![3](./images/619ff303aa7412d51d77140e85fb3a5d7294a897.jpeg)
   
