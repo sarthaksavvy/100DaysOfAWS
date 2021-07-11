@@ -14,6 +14,6 @@
   - Inflight Message
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/125186388-cf18da80-e247-11eb-870f-988479a3ad81.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/125186387-cde7ad80-e247-11eb-91e7-55be4b17546e.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/125186382-c9bb9000-e247-11eb-8ff3-2fec465e4fd4.jpeg)
+  ![1](./images/c541cf263f598b2f15c0148ad3d4e8df7e09e4cb.jpeg)
+  ![2](./images/b0d6f06d525c6e32b1115fc7e799bae727ce9cc9.jpeg)
+  ![3](./images/2c4f808f06616e610e11090d0d9f4c923f07798a.jpeg)
