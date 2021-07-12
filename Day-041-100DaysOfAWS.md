@@ -3,8 +3,8 @@
 **Congrat, since you are here this means you have completed Day 39 and working on Day 40**
 
 ## Hands on video
-<a href="https://youtu.be/cgSSgtWiXEs">
-<img src="https://i3.ytimg.com/vi/cgSSgtWiXEs/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+<a href="https://youtu.be/oUnuIQdcVS4">
+<img src="https://i3.ytimg.com/vi/oUnuIQdcVS4/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
 </a>
 
 ## Topics
