@@ -13,5 +13,5 @@
   - Key Terms
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/125241959-c38de800-e309-11eb-9201-89cbaad6ab5b.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/125241944-bf61ca80-e309-11eb-9bd8-a9d179088d30.jpeg)
+  ![1](./images/15b22c804d2ce4930c3fbb28f4f9bee1cd01bdbe.jpeg)
+  ![2](./images/be8d872794b7219a38544181313c05c9c9181d98.jpeg)
