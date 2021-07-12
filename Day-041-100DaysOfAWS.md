@@ -1,6 +1,6 @@
-# Day 40 AWS Simple Queue Service
+# Day 41 AWS Simple Queue Service
 
-**Congrat, since you are here this means you have completed Day 39 and working on Day 40**
+**Congrat, since you are here this means you have completed Day 40 and working on Day 41**
 
 ## Hands on video
 <a href="https://youtu.be/oUnuIQdcVS4">
