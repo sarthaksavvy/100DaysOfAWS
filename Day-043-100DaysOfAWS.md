@@ -13,7 +13,7 @@
   - Fanout Scenario
   - Standard topic vs FIFO topic in SNS
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/125387741-01e3df80-e3bc-11eb-98e4-de92aa7a732d.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/125387737-014b4900-e3bc-11eb-8991-77ad66010972.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/125387730-fee8ef00-e3bb-11eb-8f02-99176942b0e2.jpeg)
-  ![4](https://user-images.githubusercontent.com/41295276/125387718-fa243b00-e3bb-11eb-8575-8376307d5278.jpeg)
+  ![1](./images/11519a4e8747dd341ed98a2c92ceb419ba5732e5.jpeg)
+  ![2](./images/16eeadcb22398fbb94fef4a83e0faaaaa185f3d2.jpeg)
+  ![3](./images/8b312c838c57bd3908bce4e5b89eaadde3fa08d6.jpeg)
+  ![4](./images/21a7eee25a6d37f1a72b822c7211795be982a75c.jpeg)
