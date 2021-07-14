@@ -14,6 +14,6 @@
   - Quota & Limits
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/125572899-52b5145c-3147-46ce-abc5-1a538093f1c4.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/125572914-2c0a6fc1-6aab-4aa4-bece-e6dd801b0d46.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/125572918-76c5f279-0fb2-45b6-b161-8fe9c492be55.jpeg)
+  ![1](./images/a82f92ebebfb5709dc01e21f80ae99d98007b981.jpeg)
+  ![2](./images/cc2431f5f4db7faaaf14b57790b30a6dffce15da.jpeg)
+  ![3](./images/629d2e43b5f191e817af9c7309cc6c3900cf4f39.jpeg)
