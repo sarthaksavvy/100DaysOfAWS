@@ -3,8 +3,8 @@
 **Congrat, since you are here this means you have completed Day 44 and working on Day 45**
 
 ## Hands on video
-<a href="https://youtu.be/IURiDEA_kw4">
-<img src="https://i3.ytimg.com/vi/IURiDEA_kw4/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+<a href="https://youtu.be/03QcaDmzL_o">
+<img src="https://i3.ytimg.com/vi/03QcaDmzL_o/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
 </a>
 
 ## Topics
