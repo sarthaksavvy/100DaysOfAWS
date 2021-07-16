@@ -13,8 +13,8 @@
   - Lambda Features
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/125901929-99b0475c-7a8e-40c3-a62a-ae76f54958ea.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/125901941-e8bd02e1-3524-46e0-bb82-e70b0d7dbd9b.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/125901942-f08332aa-23b5-4940-8d4d-e7724c2a372c.jpeg)
-  ![4](https://user-images.githubusercontent.com/41295276/125901946-a8ecf87c-3bca-4c25-8e3f-40f4aa0b1f51.jpeg)
+  ![1](./images/c46119a7b33016a16c927b712427bec91915f4d0.jpeg)
+  ![2](./images/0210b4d308661a36252c52a79cede2c932d555e8.jpeg)
+  ![3](./images/44eadd1b854bf9f65c8e7b89fc0494447e0abac9.jpeg)
+  ![4](./images/1601e8819be84a088b3dea2f301a9eb2083719cd.jpeg)
 
