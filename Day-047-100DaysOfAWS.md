@@ -11,8 +11,8 @@
   - Lambda Concepts
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/126027399-504d57ce-e493-42b2-ae8a-d6587916bb1f.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/126027401-20c09f4e-4926-4c84-bf6f-dfa76f12eca8.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/126027403-7ae766d1-0159-46ae-8ac9-0b81a8999657.jpeg)
-  ![4](https://user-images.githubusercontent.com/41295276/126027404-d9d1ff6f-5d8d-4c2b-bded-0cb9bebf7860.jpeg)
+  ![1](./images/48c156110acd36f91a03b6258499f4bb71d49f86.jpeg)
+  ![2](./images/7747975adccca4643367167e986fcd569350e5d7.jpeg)
+  ![3](./images/38315ce3a5e57cc1ed04f861becb9786f2bf735f.jpeg)
+  ![4](./images/0538126b63bf759714c57958bcd9ac09b29ac11a.jpeg)
 
