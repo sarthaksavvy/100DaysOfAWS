@@ -13,7 +13,7 @@
   - Asynchronous Invoking
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/126055328-dd09875a-ab09-449d-af87-4a822ad273a5.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/126055330-4600f035-436c-423c-8261-cac952fd67ca.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/126055331-4ee7a28e-b65f-42a0-8bda-eeebd10a9fdd.jpeg)
+  ![1](./images/fadcadea55022256e20b729207a826e9e7ffb803.jpeg)
+  ![2](./images/06355930592eadf8087355cdd8e8d2dc6eb7acb0.jpeg)
+  ![3](./images/dde5e7a0ce8a57353c1560d37880fff916f1cfc0.jpeg)
 
