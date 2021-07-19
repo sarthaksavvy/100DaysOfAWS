@@ -12,5 +12,5 @@
   - Working with EventBridge
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/126103325-d7e5fdf2-21cb-47d3-b6f9-fb79fa3a3ce5.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/126103337-e1f2671a-9770-4908-9817-1b02df12a0e1.jpeg)
+  ![1](./images/959dacbbcc789760a31baeaafe379d8c3b79c0a3.jpeg)
+  ![2](./images/e522b68dd510aa3b2b17b8a6c0eb4e9995b8ec81.jpeg)
