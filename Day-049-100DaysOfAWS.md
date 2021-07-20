@@ -3,8 +3,8 @@
 **Congrat, since you are here this means you have completed Day 50 and working on Day 49**
 
 ## Hands on video
-<a href="https://youtu.be/vuGrN8niH2E">
-<img src="https://i3.ytimg.com/vi/vuGrN8niH2E/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+<a href="https://youtu.be/2U84zCgTqSg">
+<img src="https://i3.ytimg.com/vi/2U84zCgTqSg/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
 </a>
 
 ## Topics
