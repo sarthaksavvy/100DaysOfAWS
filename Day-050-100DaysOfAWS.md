@@ -12,6 +12,6 @@
   - Destination for Event Source
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/126264955-e47bfe9f-152d-4666-bccb-bb0d4ef200ca.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/126264967-3734f474-dffb-4bdc-8cc2-d2ca20bd531f.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/126265000-095e8d8a-b68b-48bc-a889-b5351336e282.jpeg)
+  ![1](./images/fc57d4d8bf3407ec7e87e37a2a1b29a77e587e60.jpeg)
+  ![2](./images/66e5c6c42705dcc18bf7f2bedd08e02d0e7ae7e1.jpeg)
+  ![3](./images/86d797fa119087833f44cf04ea055520bd01b242.jpeg)
