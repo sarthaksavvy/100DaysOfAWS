@@ -13,6 +13,6 @@
   - X-Ray Daemon
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/126443415-82f60152-c2a8-4635-8c85-a24b4eb3424d.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/126443425-e4d404f4-062d-4ad1-af5a-410468529bf9.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/126443429-e7810e1f-c8b2-443b-a236-2a055208255c.jpeg)
+  ![1](./images/66cca118abf9edc500df66160f0505afa4e927e1.jpeg)
+  ![2](./images/0b91cce7eb69dc111d5ceacdde7d44d751be8521.jpeg)
+  ![3](./images/12e417d1e5b9ef22247c4da52e9ee951958bc658.jpeg)
