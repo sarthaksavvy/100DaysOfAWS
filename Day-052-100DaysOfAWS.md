@@ -11,5 +11,5 @@
   - AWS Lambda Best Practices
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/126596620-4f77e4dd-a9e7-49e8-a76c-97693a18e0e8.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/126596636-edc34359-72a9-48cc-b1cb-dcbc351488c8.jpeg)
+  ![1](./images/736eb69f22de528139256d67c8699f7c6448c990.jpeg)
+  ![2](./images/91818c7d4f3f1b9f8d0b870d543cd59a0e4cc9e3.jpeg)
