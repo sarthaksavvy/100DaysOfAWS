@@ -1,6 +1,6 @@
-# Day 50 AWS Lambda - Event Source Mapping
+# Day 51 AWS Lambda - Env & X-Ray
 
-**Congrat, since you are here this means you have completed Day 49 and working on Day 50**
+**Congrat, since you are here this means you have completed Day 50 and working on Day 51**
 
 ## Hands on video
 <a href="https://youtu.be/JXnaCW_p2rM">
