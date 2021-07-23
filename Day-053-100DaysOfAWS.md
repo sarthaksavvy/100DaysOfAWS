@@ -14,7 +14,7 @@
   - Layers
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/126742196-e02a112d-46de-4c4c-9d6e-11a3b866bdc3.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/126742204-567af815-da96-4fe8-9b29-e48260c6cdd0.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/126742208-a1b7e4b8-6618-41e1-a82a-860164b82205.jpeg)
+  ![1](./images/60802d38fea1112a17e95846085a2ab2bb9694a1.jpeg)
+  ![2](./images/43aa7e1eed5ddcd97f2a48f4c35d2119e8a504df.jpeg)
+  ![3](./images/ca6e7fc5c827efd7501f2208a542c814b6a87436.jpeg)
 
