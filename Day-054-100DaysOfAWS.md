@@ -12,6 +12,6 @@
   - Lambda Alias 
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/126868916-adcb4982-3ce8-4d11-9658-e6bed5d2983c.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/126868923-7cc4026b-1706-420f-b3c2-a245641069fd.jpeg)
+  ![1](./images/0eb63a68ddde245999a62fb8186f0d372d35e252.jpeg)
+  ![2](./images/1cb3b7f490a5b15b188fce6873a6dc252a84fd5d.jpeg)
 
