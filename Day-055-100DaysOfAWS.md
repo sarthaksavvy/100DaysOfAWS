@@ -14,8 +14,8 @@
   - Secondary Index
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/126932273-ea08733c-5cc7-4d3b-8fda-177cef84073c.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/126932280-104bca7f-e160-4147-a184-a127cd09e041.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/126932283-2f96c858-69e7-4147-b226-8b2b09174e1f.jpeg)
-  ![4](https://user-images.githubusercontent.com/41295276/126932284-310365a8-9731-4169-8cd4-dd6592ef303b.jpeg)
+  ![1](./images/56eed9932a6180222289dba9e37ad41b253c939c.jpeg)
+  ![2](./images/a20cdfbada4dbbc289fdef332f363c2b845c13b2.jpeg)
+  ![3](./images/a6861af2feee28b9edb41664f3dede253234157f.jpeg)
+  ![4](./images/8c7d4296a2ecb2cd8375217d7a3ac188447de66b.jpeg)
 
