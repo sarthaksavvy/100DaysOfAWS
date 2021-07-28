@@ -13,6 +13,6 @@
   - Stream Shards
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/127273180-d136d608-ea32-4abc-99ab-86df1c138f34.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/127273194-d2bef4ff-47da-45f0-95ec-2c6a46127433.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/127273206-5b2bd846-bc57-42df-8e4a-d66787741a5a.jpeg)
+  ![1](./images/66b67937db66271441770da5a47a635809932040.jpeg)
+  ![2](./images/d45c43c48da5d0854bfbbd11a8c900892203022c.jpeg)
+  ![3](./images/e9455c64edfbe3f2252c1181a572e75aac6d3349.jpeg)
