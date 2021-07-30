@@ -13,6 +13,6 @@
   - Canary release
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/127628002-7bf49ada-39b3-4ecf-9b51-dd78f6b88aaa.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/127628028-59cf66cc-54dc-4138-ae4d-bf3168fc3b26.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/127628035-7e437c01-0ba9-46f1-887d-5e317d93dc6e.jpeg)
+  ![1](./images/64ceba8ccc61d979d524838a134a8f852547a3d3.jpeg)
+  ![2](./images/2f576b5e922b099b2590fd71ab13e04ba8060881.jpeg)
+  ![3](./images/ab0e9341d76c5d81e25d979c5bb80279c95881fd.jpeg)
