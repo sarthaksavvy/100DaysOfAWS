@@ -3,8 +3,8 @@
 **Congrat, since you are here this means you have completed Day 57 and working on Day 58**
 
 ## Hands on video
-<a href="https://youtu.be/uipstciGPU0">
-<img src="https://i3.ytimg.com/vi/uipstciGPU0/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+<a href="https://youtu.be/Lh-ewXm1UcQ">
+<img src="https://i3.ytimg.com/vi/Lh-ewXm1UcQ/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
 </a>
 
 ## Topics
