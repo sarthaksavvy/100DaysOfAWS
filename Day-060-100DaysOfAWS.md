@@ -12,7 +12,7 @@
   - Api Gateway Auth
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/127733840-1746fcd3-6eac-4783-aaca-5fa63b7dd084.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/127733839-5dc2d93c-1388-4375-9a72-c5cc265a53eb.jpeg)
+  ![1](./images/6e6f13a0a20de75159d04a34e394f15cc16386d0.jpeg)
+  ![2](./images/57b384c0c7d86d0556235feaf402a0a132768699.jpeg)
 
 
