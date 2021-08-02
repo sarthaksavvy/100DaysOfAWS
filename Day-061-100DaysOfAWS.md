@@ -12,9 +12,9 @@
   - Websocket Routes and its types
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/127820022-97f34246-ce60-4bfa-8219-cf9f9d9816ee.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/127820036-cf201191-396e-4660-ad81-3de88f3eae49.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/127820042-f3c56a6a-17b1-4c84-bf90-859455587598.jpeg)
+  ![1](./images/134e6158a71a4014ba2c9ec175dde835e4582cec.jpeg)
+  ![2](./images/7935988b52ffe2b25a92e5998589f180ad43af0c.jpeg)
+  ![3](./images/d6adebfc8c09c71c76ef9848164d0b80c20b2cfa.jpeg)
 
 
 
