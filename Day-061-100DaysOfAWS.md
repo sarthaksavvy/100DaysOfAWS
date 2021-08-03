@@ -3,8 +3,8 @@
 **Congrat, since you are here this means you have completed Day 60 and working on Day 61**
 
 ## Hands on video
-<a href="https://youtu.be/Uw3mePlHDTU">
-<img src="https://i3.ytimg.com/vi/Uw3mePlHDTU/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+<a href="https://youtu.be/RIq5d4A51uc">
+<img src="https://i3.ytimg.com/vi/RIq5d4A51uc/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
 </a>
 
 ## Topics
