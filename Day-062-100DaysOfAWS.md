@@ -12,6 +12,6 @@
   - Benefits of SAM
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/127954611-ac2374ff-72a5-4de5-9adb-0b3ec1408b71.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/127954618-bbcf989e-5613-4166-8512-2aac0c0ffc91.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/127954620-7400d352-4bbb-4443-9bdf-146331617f0b.jpeg)
+  ![1](./images/acf23568d4847c348bbdf8ac60c83e0fc7572316.jpeg)
+  ![2](./images/d5ddb7b3c19324baedf878dc8b192b3fd782b96f.jpeg)
+  ![3](./images/39b542cd5591f6ac0e6714a95ad053d0ecd1b563.jpeg)
