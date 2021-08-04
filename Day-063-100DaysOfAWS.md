@@ -12,6 +12,6 @@
   - SAM Resources
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/128124140-91d90d4d-5769-4d1c-9e50-80981c38a784.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/128124154-663d6757-e53f-4962-b984-3766747b7a1a.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/128124158-0dcbb8e0-2192-48dc-a4b6-720eefe9304b.jpeg)
+  ![1](./images/b60484fdcf7f0a3bbcd3ed7e11f4365c3e78f787.jpeg)
+  ![2](./images/d21dc8ceea8d28184dce39304b9f6432376e74a8.jpeg)
+  ![3](./images/5040d29defa659ed8a60c63ce4e5e2708d22d4fd.jpeg)
