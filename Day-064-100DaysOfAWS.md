@@ -12,5 +12,5 @@
   - Features of Cognito
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/128313197-404aaf43-4c37-4515-b78b-ddac4318a7a0.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/128313221-0756afe4-7843-42b2-9b33-b15ae750556c.jpeg)
+  ![1](./images/e010902521c8d132dfcbbb63f1987a2c5761ea34.jpeg)
+  ![2](./images/4c0d294c00d9761add56b94a0cec4742362a46a9.jpeg)
