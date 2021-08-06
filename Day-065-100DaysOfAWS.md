@@ -14,7 +14,7 @@
   - Tasks
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/128458091-d839c0e0-65f8-4a11-aa81-b441d7b5e937.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/128458103-d573ad7b-25f1-43aa-b091-0a30506268b8.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/128458114-e13f800a-707d-4528-b500-c6aee09b31a4.jpeg)
+  ![1](./images/a7ad975a7ca9da094aaf468c2fd0a4cbb246f7de.jpeg)
+  ![2](./images/f3568800a58990df3ea12f41e3beb653a9e334b2.jpeg)
+  ![3](./images/4e36c434845a32b9809e0834fee1c447899e261c.jpeg)
 
