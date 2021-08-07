@@ -3,8 +3,8 @@
 **Congrat, since you are here this means you have completed Day 64 and working on Day 65**
 
 ## Hands on video
-<a href="https://youtu.be/mlf3Kx9YDqw">
-<img src="https://i3.ytimg.com/vi/mlf3Kx9YDqw/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+<a href="https://youtu.be/aE1ttIBAFZQ">
+<img src="https://i3.ytimg.com/vi/aE1ttIBAFZQ/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
 </a>
 
 ## Topics
