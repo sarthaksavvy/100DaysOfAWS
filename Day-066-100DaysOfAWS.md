@@ -12,6 +12,6 @@
   - Error Handling
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/128590106-b658f308-570c-4e72-be82-c33ab6104bb8.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/128590111-11e2be85-9cc0-4b60-8cfc-c704eecde5e1.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/128590113-3c04a4bf-c345-4edf-8ad3-df786e656fc9.jpeg)
+  ![1](./images/b8c85edda738365f1c9754118e53e07651d2cbb9.jpeg)
+  ![2](./images/94500fbdd91455160fef1e15628201e8d1b5bc00.jpeg)
+  ![3](./images/d150b7fab07d483d1380c7cbbd7080b686d40a36.jpeg)
