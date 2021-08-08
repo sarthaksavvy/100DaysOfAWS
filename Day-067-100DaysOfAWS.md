@@ -13,6 +13,6 @@
   - Concepts
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/128621342-f01f65a4-a44f-4da6-95d4-ef769d5db6c5.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/128621344-b71c0c78-1aa8-4f30-b868-e60683dd056a.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/128621345-b2235f0d-eb0e-4ab1-8216-dfba439fecd4.jpeg)
+  ![1](./images/105ba04e8b2493a6d84ee129ef7fd314bcb7500a.jpeg)
+  ![2](./images/f1dddeb63fa3eee68ef968906e695fe27f217410.jpeg)
+  ![3](./images/7742ec0d3d5fa079e41ed84f85098141f0708626.jpeg)
