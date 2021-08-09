@@ -15,6 +15,6 @@
   - AWS Owned CMKs
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/128662226-ceac8adf-037e-40a3-bf77-b698d8a8db8a.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/128662275-fefa6bf7-228d-411c-bbe1-44896b3fcfac.jpeg)
+  ![1](./images/bf2b11d352db73160cac8f253a8d35f654bcfe1e.jpeg)
+  ![2](./images/2771f225d93f6dfb728bfd197750406a4927b57d.jpeg)
   ![3](https://user-images.githubusercontent.com/41295276/128662306-8a6e12c8-285d-406c-a420-35675c9e81ff.jpeg)
