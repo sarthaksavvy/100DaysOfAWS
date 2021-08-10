@@ -12,6 +12,6 @@
   - AWS System Manager Capabilities
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/128818820-1765dfc0-669f-4f91-83e4-0c847c55dfa9.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/128818833-9c29b346-d9bf-41fb-a516-bee3765cb48d.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/128818838-d15de901-9a0b-47a2-88aa-06cb6093737c.jpeg)
+  ![1](./images/cc1a6e91af156193a1160068c004826eb4b57373.jpeg)
+  ![2](./images/44128a91c0af9cda06369d1159a148e633bbb55c.jpeg)
+  ![3](./images/ef65a3d48c89c7019d9d26c7edef50e73c41684b.jpeg)
