@@ -3,8 +3,8 @@
 **Congrat, since you are here this means you have completed Day 68 and working on Day 69**
 
 ## Hands on video
-<a href="https://youtu.be/XbElM1Wam_Y">
-<img src="https://i3.ytimg.com/vi/XbElM1Wam_Y/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+<a href="https://youtu.be/NfxTfEBL0h8">
+<img src="https://i3.ytimg.com/vi/NfxTfEBL0h8/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
 </a>
 
 ## Topics
