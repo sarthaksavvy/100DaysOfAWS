@@ -14,7 +14,7 @@
   - Pricing
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/129162515-a9f7aa7a-6302-472e-b407-3ecd3f5588a6.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/129162526-bb3ee174-6bc4-456f-8617-d63330efda13.jpeg)
-  ![3](https://user-images.githubusercontent.com/41295276/129162530-f1530692-bf8f-476f-9665-70c86b732833.jpeg)
+  ![1](./images/8e90c44344d9f154b9f27c29dccd48c45d1e8d83.jpeg)
+  ![2](./images/193a061fe6193980b5d69570975b1feb22031f28.jpeg)
+  ![3](./images/ea204dbfe71ba933e34e1251a1b7d8d8f4ed1070.jpeg)
 
