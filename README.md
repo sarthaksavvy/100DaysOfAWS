@@ -10,7 +10,8 @@
 - I will update daily progress here share contents, videos and notes
 
 ## Content to follow up
-- Course - [Ultimate AWS Certified Developer Associate 2021 - NEW!](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
+- Basic Course - [Ultimate AWS Certified Developer Associate 2021 - NEW!](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
+- Hands On Course - [AWS Certified DevOps Engineer Professional 2021 - Hands On!](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/)
 
 Day 1 (24 May, 2021) Getting Started with AWS [Click Here to Read More](/Day-001-100DaysOfAWS.md)
 
