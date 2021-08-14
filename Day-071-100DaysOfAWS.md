@@ -3,8 +3,8 @@
 **Congrat, since you are here this means you have completed Day 70 and working on Day 71**
 
 ## Hands on video
-<a href="https://youtu.be/2YpJazgtLrU">
-<img src="https://i3.ytimg.com/vi/2YpJazgtLrU/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
+<a href="https://youtu.be/gZq2tjy98RE">
+<img src="https://i3.ytimg.com/vi/gZq2tjy98RE/hqdefault.jpg" align="center" width="200" style="border-radius:40px" />
 </a>
 
 ## Topics
