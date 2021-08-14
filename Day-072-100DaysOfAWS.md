@@ -11,5 +11,5 @@
   - How to define policy to protect branch from deleting or creating new branch
 
 ## My Notes
-![1](https://user-images.githubusercontent.com/41295276/129438933-21045ee1-fcbd-4c40-bb04-e126703f24da.jpeg)
+![1](./images/0109d2adda9f1117a2ad8153ce76638f4046f8bb.jpeg)
 
