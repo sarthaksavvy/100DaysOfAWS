@@ -11,8 +11,8 @@
   - Understand Build Specification for CodeBuild
 
 ## My Notes
-  ![1](https://user-images.githubusercontent.com/41295276/129511780-26df277e-bd03-43d6-84b7-7844d379165b.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/129511788-f7c91410-374e-4afc-8d31-9269676b8479.jpeg)
+  ![1](./images/d61dcb3a060761b8b7c08e117976f857a4996f70.jpeg)
+  ![2](./images/6281d458c4d0f8c3ab3a893f4c97f1b7dadaa32b.jpeg)
 
 
 
