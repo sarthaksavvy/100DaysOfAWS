@@ -11,6 +11,6 @@
   - How to define Application Specification on CodeDeploy
 
 ## Notes
-  ![1](https://user-images.githubusercontent.com/41295276/130081015-ae2ab448-1b99-47ef-be16-42a7c80d646c.jpeg)
-  ![2](https://user-images.githubusercontent.com/41295276/130081045-63749946-876e-4311-a063-922284459328.jpeg)
+  ![1](./images/d332262a392645406d977eccb47b94897b7bd2df.jpeg)
+  ![2](./images/a8663690e71cfc097e3fd6318320edacd513adaa.jpeg)
 
